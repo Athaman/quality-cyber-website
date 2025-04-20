@@ -10,6 +10,7 @@ $(function (event) {
         1500,
         'easeInOutExpo'
       );
+    $('.navbar-toggle').click();
     e.preventDefault();
   });
 });
